@@ -60,14 +60,22 @@
   education1: B.Sc., Biochemical Science and Technology, National Taiwan University, Taiwan
   education2: M.Sc., Plant Biology, National Taiwan University, Taiwan (<a href="https://www.ntuipb.info/chin-mei-lee-eng">Chin-Mei Lee</a>)
 
-- name: Hsin-Tung Lai
+- name: Hsin-Tung Lai (賴欣彤)
   photo: HsinTung.jpg
-  info: M.Sc. student (2022.08–); undergrad researcher (2022.02–2022.07)
+  info: Research associate (2024.08–); M.Sc. student (2022.08–2024.08); undergrad researcher (2022.02–2022.07)
   email: r11b44002@ntu.edu.tw
   number_educ: 3
   education1: B.Sc., Life Science, National Taiwan University, Taiwan
-  education2: M.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (2022.08–)
+  education2: M.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (2022.08–2024.08)
   education3: Second place in MiTalk7 flash talk competition (2023)
+
+- name: Louis Muxfeldt
+  photo: Louis.jpg
+  info: M.Sc. student research intern (2024.08–2024.09)
+  email: louis.Muxfeldt@campus.lmu.de
+  number_educ: 2
+  education1: B.Sc., Biology, Ludwig Maximilian University of Munich, Germany
+  education2: M.Sc., Biology, Ludwig Maximilian University of Munich, Germany
 
 - name: Justyna Kowalczyk
   photo: Justyna.jpg

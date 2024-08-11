@@ -151,8 +151,8 @@ There are quite some programs available for short-term research stays in our lab
 <br/>
 
 
-### General scholarships for studying Taiwan
-* [Taiwan Scholarship](https://taiwanscholarship.moe.gov.tw/web/pages.aspx?p=7) for bachelor's, master's or PhD programs.
-* [Huayu Enrichment Scholarship](https://taiwanscholarship.moe.gov.tw/web/pages.aspx?p=7) for Mandarin courses
+### General scholarships for studying in Taiwan
+* [Taiwan Scholarship](https://taiwanscholarship.moe.gov.tw/web/pages.aspx?p=7) for bachelor's, master's or PhD programs in Taiwan
+* [Huayu Enrichment Scholarship](https://taiwanscholarship.moe.gov.tw/web/pages.aspx?p=7) for Mandarin courses up to one year
 
 <br/>

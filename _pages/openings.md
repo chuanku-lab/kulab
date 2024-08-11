@@ -149,3 +149,8 @@ There are quite some programs available for short-term research stays in our lab
   * Benefits: travel costs (up to 1,800 EUR covered by the EMBO Global Investigator grant)
 
 <br/>
+
+
+### General scholarships for studying Taiwan
+* [Taiwan Scholarship](https://taiwanscholarship.moe.gov.tw/web/pages.aspx?p=7) for bachelor's, master's or PhD programs.
+* [Huayu Enrichment Scholarship](https://taiwanscholarship.moe.gov.tw/web/pages.aspx?p=7) for Mandarin courses

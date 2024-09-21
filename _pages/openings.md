@@ -78,11 +78,12 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 <br/>
 
 ### Master's
-Master's programs in Taiwan are usually for two years. Our lab is associated with the following programs.
+Master's programs in Taiwan are designed for two years. Our lab is associated with the following programs, among which EEB, GSB and PMB offer courses taught in English.
 
 #### Programs
 * [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master)
 * [Genome and Systems Biology (GSB) (National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
+* International Master's Program in Plant and Microbial Biology (IMP-PMB) (National Chung Hsing University; )
 * [Life Sciences (National Central University)](https://nculs.in.ncu.edu.tw/index.php/Index/index.html)
 * [Microbiology (Soochow University)](http://microbiology.scu.edu.tw/nexus/)
 

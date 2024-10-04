@@ -74,7 +74,7 @@ As the national research institution, Academia Sinica offers PhD and master's pr
 #### Application and additional information
 * TIGP: [application](https://tigp.apps.sinica.edu.tw/index.php)
 * National Taiwan University (GSB, EEB, PB): [application](https://admissions.ntu.edu.tw/apply/international-applications/), [Office of International affairs](https://oia.ntu.edu.tw/en/), [College of Life Science](https://youtu.be/mthyfB0OJR8)
-* [National Science and Technology Council Graduate Research Fellowship](file:///Users/chuan/Downloads/National%20Science%20and%20Technology%20Council%20Graduate%20Research%20Fellowship%20Pilot%20Program.pdf)
+* [National Science and Technology Council Graduate Research Fellowship](https://www.nstc.gov.tw/nstc/attachments/31336bff-fdf4-4f6a-9167-19550aa1896c)
 
 <br/>
 

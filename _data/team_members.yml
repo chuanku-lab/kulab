@@ -69,9 +69,33 @@
   education2: M.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (2022.08–2024.08)
   education3: Second place in MiTalk7 flash talk competition (2023)
 
+- name: Ryan Calicaran
+  photo: avatar.jpg
+  info: Ph.D. researcher, TIGP-MBAS (2024.08–)
+  email:
+  number_educ: 2
+  education1: B.Sc., Microbiology, University of Santo Tomas, Philippines
+  education2: M.Sc., Microbiology, University of the Philippines Diliman, Philippines
+
+- name: Hsin-Ying Chang
+  photo: avatar.jpg
+  info: Ph.D. researcher, TIGP-Bioinformatics (2024.08–)
+  email:
+  number_educ: 2
+  education1: B.Sc., Life Sciences, National Chung Hsing University, Taiwan
+  education2: M.Sc., Plant Biology, National Taiwan University, Taiwan
+
+- name: Nang Yee Mon Htoo
+  photo: avatar.jpg
+  info: Ph.D. researcher, TIGP-MBAS (2024.08–)
+  email:
+  number_educ: 2
+  education1: B.Sc., Zoology, University of Mandalay, Myanmar
+  education2: M.Sc., Applied Microbiology, Chiang Mai University, Thailand
+
 - name: He-Ping Liu (劉禾萍)
   photo: He-ping.jpg
-  info: M.Sc. student (2024.08–; co-advised with <a href="https://ppm.ntu.edu.tw/lichang.html">Li Chang</a>)
+  info: M.Sc. student, National Taiwan University (2024.08–; co-advised with <a href="https://ppm.ntu.edu.tw/lichang.html">Li Chang</a>)
   email:
   number_educ: 2
   education1: B.Sc., Plant Pathology, National Chung Hsing University, Taiwan

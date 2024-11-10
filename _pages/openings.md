@@ -102,7 +102,7 @@ Master's programs in Taiwan are designed for two years. Our lab is associated wi
 There are quite some programs available for short-term research stays in our lab. Below are just a few.
 
 #### Internships
-* [Taiwan International Graduate Program International Internship (TIGP-IIP)](https://tigpsip.apps.sinica.edu.tw/index.php)
+* [Taiwan International Internship Program (TIIP)](https://tiip.dia.sinica.edu.tw/)
   * Duration: 2-3 months between May and September (summer internship) or February and April (spring internship)
   * Eligibility: undergraduate/master's students or recent graduates
   * Benefits: airfare, accommodation, stipend (~1000 USD/month)

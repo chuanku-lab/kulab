@@ -18,6 +18,26 @@
   highlight:
   news1:
 
+- title: "Haplotype-aware multiomics unveils the regulatory basis of haplodiplontic life-cycle differentiation in a cosmopolitan marine alga"
+  image:
+  description:
+  authors: Tzu-Tong Kao, Ming-Wei Lai, Tzu-Haw Wang, Chia-Ling Yang, Miguel Frada, Chuan Ku
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.05.26.595999v2
+    display: bioRxiv (2024)
+  highlight:
+  news1:
+
+- title: "Cathepsin X is a conserved cell death protein involved in algal response to environmental stress"
+  image:
+  description:
+  authors: Avia Mizrachi, Mai Sadeh, Shifra Ben-Dor, Orly Dym, Chuan Ku, Ester Feldmesser, Amichai Zarfin, John K Brunson, Andrew E Allen, Robert E Jinkerson, Daniella Schatz, Assaf Vardi
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.05.15.594278v1
+    display: bioRxiv (2024)
+  highlight:
+  news1:
+
 - title: "Merit of integrating in situ transcriptomics and anatomical information for cell annotation and lineage construction in single‑cell analyses of Populus"
   image:
   description:

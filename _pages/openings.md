@@ -84,7 +84,7 @@ Master's programs in Taiwan are designed for two years. Our lab is associated wi
 #### Programs
 * [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master)
 * [Genome and Systems Biology (GSB) (National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
-* International Master's Program in Plant and Microbial Biology (IMP-PMB) (National Chung Hsing University; )
+* [International Master's Program in Plant and Microbial Biology (IMP-PMB) (National Chung Hsing University)](https://imppmb.email.nchu.edu.tw/home)
 * [Life Sciences (National Central University)](https://nculs.in.ncu.edu.tw/index.php/Index/index.html)
 * [Microbiology (Soochow University)](http://microbiology.scu.edu.tw/nexus/)
 

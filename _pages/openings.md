@@ -59,8 +59,8 @@ As the national research institution, Academia Sinica offers PhD and master's pr
   * [Molecular and Biological Agricultural Sciences (MBAS)](http://abrc.sinica.edu.tw/mbas/)
   * [Bioinformatics](https://tigpbp.iis.sinica.edu.tw/tigpbio/old/index.html)
 * Joint programs between IPMB/AS and universities
-  * [Genome and Systems Biology (GSB) (with National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
-  * [Plant Biology (PB) (with National Taiwan University)](https://www.ntuipb.info/home-eng)
+  * [Genome and Systems Biology (GSB) (with National Taiwan University)](https://ntugsb.ntu.edu.tw/)
+  * [Plant Biology (PB) (with National Taiwan University)](https://www.ntuipb.info/)
   * Microbial Genomics (with National Chung Hsing University)
 * Other programs
   * [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_phd)
@@ -83,7 +83,7 @@ Master's programs in Taiwan are designed for two years. Our lab is associated wi
 
 #### Programs
 * [Ecology and Evolutionary Biology (EEB) (National Taiwan University)](https://ecology.lifescience.ntu.edu.tw/doku.php/en/program_master)
-* [Genome and Systems Biology (GSB) (National Taiwan University)](http://gsb.lifescience.ntu.edu.tw/e-introduction%20.htm)
+* [Genome and Systems Biology (GSB) (National Taiwan University)](https://ntugsb.ntu.edu.tw/)
 * [International Master's Program in Plant and Microbial Biology (IMP-PMB) (National Chung Hsing University)](https://imppmb.email.nchu.edu.tw/home)
 * [Life Sciences (National Central University)](https://nculs.in.ncu.edu.tw/index.php/Index/index.html)
 * [Microbiology (Soochow University)](http://microbiology.scu.edu.tw/nexus/)

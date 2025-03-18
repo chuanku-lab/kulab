@@ -50,13 +50,13 @@ Our lab belongs to the [Institute of Plant and Microbial Biology](https://ipmb.s
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/MolecularBiolologyEvolution2025.Figure2.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/VirusEvol2021.Figure_2.website.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/VirusEvol2021.Figure_2.website.png" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/GirusEukCophylo.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/GirusEukCophylo.png" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PhilTransB_Fig1.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PhilTransB_Fig1.png" alt="Slide 8" />
         </div>
 
     </div>

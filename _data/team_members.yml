@@ -1,7 +1,7 @@
 - name: Chuan Ku (顧銓)
   photo: Chuan.jpg
   info: Associate professor, Institute of Plant and Microbial Biology; Adjunct / jointly appointed faculty member, Institute of Ecology and Evolutionary Biology / Genome and Systems Biology Degree Program, National Taiwan University [<a href="https://chuanku-lab.github.io/kulab/downloads/CV_230106.pdf">CV</a>][<a href="https://www.researchgate.net/profile/Chuan_Ku">ResearchGate</a>][<a href="https://scholar.google.com/citations?user=1BDzxq8AAAAJ&hl=en">Google Scholar</a>]
-  email: chuanku@gate.sinica.edu.tw
+  email: chuanku[at]as.edu.tw
   number_educ: 6
   education1: B.Sc., Life Science (minor in Geosciences), National Taiwan University, Taiwan
   education2: M.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (with <a href="https://ecology.lifescience.ntu.edu.tw/doku.php/en/jmhu/start">Jer-Ming Hu</a>)
@@ -13,7 +13,7 @@
 - name: Ming-Wei Lai (賴名威)
   photo: MingWei.jpg
   info: Lab manager (2020.07–)
-  email: mwlai@gate.sinica.edu.tw
+  email: mwlai[at]as.edu.tw
   number_educ: 4
   education1: B.Sc., Life Science, Fu-Jen Catholic University
   education2: M.Sc., Plant Pathology and Microbiology, Natioanl Taiwan University, Taiwan
@@ -23,7 +23,7 @@
 - name: Yu-chi Liu (劉昱志)
   photo: YuChi.jpg
   info: Senior research associate (2022.11–)
-  email: liuyuchi@gate.sinica.edu.tw
+  email: liuyuchi[at]as.edu.tw
   number_educ: 2
   education1: B.Sc., Biological Engineering, Tatung Institute of Technology, Taiwan
   education2: M.Sc., Life Science, National Central University, Taiwan
@@ -31,7 +31,7 @@
 - name: Hwee Sze Tee (郑妃斯)
   photo: Sze.jpg
   info: Postdoctoral researcher (2023.03–)
-  email: hweesze17@gate.sinica.edu.tw
+  email: hweesze17[at]gate.sinica.edu.tw
   number_educ: 2
   education1: B.Sc., Genetics and Molecular Biology, University of Malaya, Malaysia
   education2: Ph.D., Biology, University of Auckland, New Zealand (with <a href="https://profiles.auckland.ac.nz/kim-handley">Kim M. Handley</a>)
@@ -39,7 +39,7 @@
 - name: Chia-Ling Yang (楊佳陵)
   photo: ChiaLing.jpg
   info: Research associate (2019.04–)
-  email: as0190267@gate.sinica.edu.tw
+  email: as0190267[at]as.edu.tw
   number_educ: 2
   education1: B.Sc., Science Education, National Taipei University of Education, Taiwan
   education2: M.Sc., Plant Biology, National Taiwan University, Taiwan (<a href="https://www.ntuipb.info/chiu-ping-cheng-eng">Chiu-Ping Cheng</a>)
@@ -47,7 +47,7 @@
 - name: Tzu-Haw Wang (王姿皓)
   photo: TzuHaw.jpg
   info: Bioinformatician / research associate (2019.09–)
-  email: tzuhawwang@gate.sinica.edu.tw
+  email: tzuhawwang[at]as.edu.tw
   number_educ: 2
   education1: B.Sc., Bioscience and Biotechnology, National Taiwan Ocean University, Taiwan
   education2: M.Sc., Oceanography, National Taiwan University, Taiwan (with <a href="http://biodiv.sinica.edu.tw/~sltang/index.php">Sen-Lin Tang</a>)
@@ -55,7 +55,7 @@
 - name: Ni-Chiao Tsai (蔡妮樵)
   photo: NiChiao.jpg
   info: Research associate (2023.11–)
-  email: nichiaotsai[at]gate.sinica.edu.tw
+  email: nichiaotsai[at]as.edu.tw
   number_educ: 2
   education1: B.Sc., Biochemical Science and Technology, National Taiwan University, Taiwan
   education2: M.Sc., Plant Biology, National Taiwan University, Taiwan (<a href="https://www.ntuipb.info/chin-mei-lee-eng">Chin-Mei Lee</a>)
@@ -63,7 +63,7 @@
 - name: Hsin-Tung Lai (賴欣彤)
   photo: HsinTung.jpg
   info: Research associate (2024.08–); M.Sc. student (2022.08–2024.08); undergrad researcher (2022.02–2022.07)
-  email: r11b44002@ntu.edu.tw
+  email: r11b44002[at]ntu.edu.tw
   number_educ: 3
   education1: B.Sc., Life Science, National Taiwan University, Taiwan
   education2: M.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (2022.08–2024.08)
@@ -77,10 +77,10 @@
   education1: B.Sc., Microbiology, University of Santo Tomas, Philippines
   education2: M.Sc., Microbiology, University of the Philippines Diliman, Philippines
 
-- name: Hsin-Ying Chang
+- name: Hsin-Ying Chang (張心盈)
   photo: HsinYing.jpg
   info: Ph.D. researcher, TIGP-Bioinformatics (2024.08–)
-  email:
+  email: d13947001[at]ntu.edu.tw
   number_educ: 2
   education1: B.Sc., Life Sciences, National Chung Hsing University, Taiwan
   education2: M.Sc., Plant Biology, National Taiwan University, Taiwan
@@ -110,7 +110,7 @@
 
 - name: Devita Mayanda Heerlie
   photo: Devita.jpg
-  info: B.Sc. student researcher (2024.09–2025.06)
+  info: B.Sc. student researcher (2024.09–2025.06); M.Sc. student (2025.08–)
   email: devita.heerlie[at]student.i3l.ac.id
   number_educ: 1
   education1: B.Sc., Bioinformatics, Indonesia International Institute for Life-Sciences, Indonesia

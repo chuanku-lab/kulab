@@ -33,10 +33,28 @@
 - name: Alyzza Calayag
   photo: Alyzza.jpg
   duration: 2021.10–2022.06
-  info: PhD researcher (Taiwan International Graduate Program MBAS)
+  info: PhD researcher (TIGP-MBAS)
   email: acalayag0001@gate.sinica.edu.tw
   number_educ: 1
   education1: B.Sc., Biology, University of the Philippines Diliman, Philippines; M.Sc., Microbiology, University of the Philippines Diliman, Philippines
+
+- name: Ryan Calicaran
+  photo: Ryan.jpg
+  duration: 2024.08–2025.01
+  info: Ph.D. researcher (TIGP-MBAS)
+  email:
+  number_educ: 2
+  education1: B.Sc., Microbiology, University of Santo Tomas, Philippines
+  education2: M.Sc., Microbiology, University of the Philippines Diliman, Philippines
+
+- name: Nang Yee Mon Htoo
+  photo: Htoo.jpg
+  duration: 2024.08–2025.01
+  info: Ph.D. researcher (TIGP-MBAS)
+  email:
+  number_educ: 2
+  education1: B.Sc., Zoology, University of Mandalay, Myanmar
+  education2: M.Sc., Applied Microbiology, Chiang Mai University, Thailand
 
 - name: Serge Ryndov
   photo: Serge_210408.jpg
@@ -149,3 +167,11 @@
   email: louis.Muxfeldt[at]campus.lmu.de
   number_educ: 1
   education1: B.Sc., Biology, Ludwig Maximilian University of Munich, Germany; M.Sc., Molecular and Cellular Biology, Ludwig Maximilian University of Munich, Germany
+
+- name: Nina Gooss
+  photo: Nina.jpg
+  duration: 2024.09–2024.11
+  info: B.Sc. student research intern
+  email:
+  number_educ: 1
+  education1: B.Sc., Biology, Ludwig Maximilian University of Munich, Germany

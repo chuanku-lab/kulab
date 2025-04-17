@@ -69,29 +69,23 @@
   education2: M.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (2022.08–2024.08)
   education3: Second place in MiTalk7 flash talk competition (2023)
 
-- name: Ryan Calicaran
-  photo: Ryan.jpg
-  info: Ph.D. researcher, TIGP-MBAS (2024.08–)
-  email:
-  number_educ: 2
-  education1: B.Sc., Microbiology, University of Santo Tomas, Philippines
-  education2: M.Sc., Microbiology, University of the Philippines Diliman, Philippines
-
 - name: Hsin-Ying Chang (張心盈)
   photo: HsinYing.jpg
   info: Ph.D. researcher, TIGP-Bioinformatics (2024.08–)
   email: d13947001[at]ntu.edu.tw
-  number_educ: 2
+  number_educ: 3
   education1: B.Sc., Life Sciences, National Chung Hsing University, Taiwan
   education2: M.Sc., Plant Biology, National Taiwan University, Taiwan
+  education3: Ph.D., Bioinformatics, Taiwan International Graduate Program, Institute of Plant and Microbial Biology, Academia Sinica & Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan University, Taiwan
 
-- name: Nang Yee Mon Htoo
-  photo: Htoo.jpg
-  info: Ph.D. researcher, TIGP-MBAS (2024.08–)
+- name:  Magar Sharayu Narayan
+  photo: avatar.jpg
+  info: Visiting Ph.D. researcher, TIGP-X (2025.04–)
   email:
-  number_educ: 2
-  education1: B.Sc., Zoology, University of Mandalay, Myanmar
-  education2: M.Sc., Applied Microbiology, Chiang Mai University, Thailand
+  number_educ: 3
+  education1: B.Tech., MES Abasaheb Garware College, Pune, Maharashtra, India
+  education2: M.Sc., Genomics, Madurai Kamaraj University, Tamil Nadu, India
+  education3: Ph.D., Biological Sciences, SRM University AP, Andhra Pradesh, India
 
 - name: He-Ping Liu (劉禾萍)
   photo: He-ping.jpg
@@ -101,12 +95,13 @@
   education1: B.Sc., Plant Pathology, National Chung Hsing University, Taiwan
   education2: M.Sc., Plant Pathology and Microbiology, National Taiwan University, Taiwan (2024.08–)
 
-- name: Nina Gooss
-  photo: Nina.jpg
-  info: B.Sc. student research intern (2024.09–2024.11)
-  email:
-  number_educ: 1
-  education1: B.Sc., Biology, Ludwig Maximilian University of Munich, Germany
+- name: Prathama Das
+  photo: avatar.jpg
+  info: M.Sc. student, GSB (2025.03–)
+  email: r13b48006[at]ntu.edu.tw
+  number_educ: 2
+  education1: B.Tech., Biotechnology, Shoolini University, Himachal Pradesh, India
+  education2: M.Sc., Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica, Taiwan
 
 - name: Devita Mayanda Heerlie
   photo: Devita.jpg

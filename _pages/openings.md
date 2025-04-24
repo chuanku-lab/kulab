@@ -10,7 +10,7 @@ permalink: /positions
 
 **We are always looking for highly motivated people!** Positions are available for postdocs, graduate researchers, research associates and other staff members. Here we value diversity both in our research topics and in our team composition, and passionate researchers from around the world are welcome to join us. **如果對我們研究室有興趣，歡迎隨時直接寄信給顧銓**（信件內容如下）。
 
-To apply for a specific position (see below), please send an [email](mailto:chuanku@gate.sinica.edu.tw, kulabMEEE@gmail.com) with the subject IPMB_application_WhatPosition_YourName directly to Chuan Ku, briefly mentioning how you knew about our lab and describing your research interests, experience, skills, future plan, and contact details of one or two referees. A single PDF should be attached that includes your CV, and, if relevant, transcripts, degree certificates, thesis title and abstract, and proofs of relevant skills and experience.
+To apply for a specific position (see below), please send an [email](mailto:chuanku@as.edu.tw, kulabMEEE@gmail.com) with the subject IPMB_application_WhatPosition_YourName directly to Chuan Ku (CC: kulabMEEE@gmail.com), briefly mentioning how you knew about our lab and describing your research interests, experience, skills, future plan, and contact details of one or two referees. A single PDF should be attached that includes your CV, and, if relevant, transcripts, degree certificates, thesis title and abstract, and proofs of relevant skills and experience.
 
 English is the working language in our lab and institute. Mandarin skills are not required, but there are free classes on campus for those interested.
 

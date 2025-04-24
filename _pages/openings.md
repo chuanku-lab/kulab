@@ -29,7 +29,7 @@ Postdoc positions can be funded by the options below. All applicants will be enc
 * Core funding or grants
 
 #### Benefits
-* Salary: ~32,000-45,000 USD/year
+* Salary: ~32,000-45,000 USD/year or 51000 EUR/year ([EMBO Postdoc](https://www.embo.org/documents/PDF/Postdoctoral_Fellowships_ContractRates.pdf))
 * Subsidized national health insurance, work insurance, and pension scheme
 * Relocation expenses, family allowance or benefits, and a small research grant may be available depending on the fellowship
 * Funding for attending international conferences, workshops, or courses

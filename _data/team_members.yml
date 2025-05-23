@@ -81,11 +81,19 @@
 - name:  Magar Sharayu Narayan
   photo: Sharayu.jpg
   info: Visiting Ph.D. researcher, TIGP-X (2025.04–)
-  email:
+  email: sharayunarayan_m[at]srmap.edu.in
   number_educ: 3
   education1: B.Tech., MES Abasaheb Garware College, Pune, Maharashtra, India
   education2: M.Sc., Genomics, Madurai Kamaraj University, Tamil Nadu, India
   education3: Ph.D., Biological Sciences, SRM University AP, Andhra Pradesh, India
+
+- name:  Varian Fahmi
+  photo: Varian.jpg
+  info: Research associate (2025.05–2025.08); Ph.D. researcher (2025.08–)
+  email: varianfahmi[at]as.edu.tw
+  number_educ: 2
+  education1: B.Sc., Mathematics and Natural Sciences, Brawijaya University, Indonesia
+  education2: M.Sc., Mathematics and Natural Sciences, Bandung Institute of Technology, Indonesia
 
 - name: He-Ping Liu (劉禾萍)
   photo: He-ping.jpg

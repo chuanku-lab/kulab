@@ -28,14 +28,6 @@
   education1: B.Sc., Biological Engineering, Tatung Institute of Technology, Taiwan
   education2: M.Sc., Life Science, National Central University, Taiwan
 
-- name: Hwee Sze Tee (郑妃斯)
-  photo: Sze.jpg
-  info: Postdoctoral researcher (2023.03–)
-  email: hweesze17[at]gate.sinica.edu.tw
-  number_educ: 2
-  education1: B.Sc., Genetics and Molecular Biology, University of Malaya, Malaysia
-  education2: Ph.D., Biology, University of Auckland, New Zealand (with <a href="https://profiles.auckland.ac.nz/kim-handley">Kim M. Handley</a>)
-
 - name: Chia-Ling Yang (楊佳陵)
   photo: ChiaLing.jpg
   info: Research associate (2019.04–)
@@ -59,15 +51,6 @@
   number_educ: 2
   education1: B.Sc., Biochemical Science and Technology, National Taiwan University, Taiwan
   education2: M.Sc., Plant Biology, National Taiwan University, Taiwan (<a href="https://www.ntuipb.info/chin-mei-lee-eng">Chin-Mei Lee</a>)
-
-- name: Hsin-Tung Lai (賴欣彤)
-  photo: HsinTung.jpg
-  info: Research associate (2024.08–); M.Sc. student (2022.08–2024.08); undergrad researcher (2022.02–2022.07)
-  email: r11b44002[at]ntu.edu.tw
-  number_educ: 3
-  education1: B.Sc., Life Science, National Taiwan University, Taiwan
-  education2: M.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (2022.08–2024.08)
-  education3: Second place in MiTalk7 flash talk competition (2023)
 
 - name: Syun-Wun Liang (梁薰文)
   photo: SyunWun.jpg
@@ -125,6 +108,32 @@
   email: devita.heerlie[at]student.i3l.ac.id
   number_educ: 1
   education1: B.Sc., Bioinformatics, Indonesia International Institute for Life-Sciences, Indonesia
+
+- name: Michael Angelou Nada
+  photo: Avatar.jpg
+  info: TIGP research intern (2025.06–2025.08)
+  email: mikeangelounada[at]gmail.com
+  number_educ: 3
+  education1: B.Sc., Biology, Southern Luzon State University, Philippines
+  education2: M.Sc., Marine Science, University of the Philippines Diliman, Philippines
+  education3: Technical specialist, Industrial Technology Development Institute, Department of Science and Technology, Philippines
+
+- name: Hwee Sze Tee (郑妃斯)
+  photo: Sze.jpg
+  info: Postdoctoral researcher (2023.03–)
+  email: hweesze17[at]gate.sinica.edu.tw
+  number_educ: 2
+  education1: B.Sc., Genetics and Molecular Biology, University of Malaya, Malaysia
+  education2: Ph.D., Biology, University of Auckland, New Zealand (with <a href="https://profiles.auckland.ac.nz/kim-handley">Kim M. Handley</a>)
+
+- name: Hsin-Tung Lai (賴欣彤)
+  photo: HsinTung.jpg
+  info: Research associate (2024.08–); M.Sc. student (2022.08–2024.08); undergrad researcher (2022.02–2022.07)
+  email: r11b44002[at]ntu.edu.tw
+  number_educ: 3
+  education1: B.Sc., Life Science, National Taiwan University, Taiwan
+  education2: M.Sc., Ecology and Evolutionary Biology, National Taiwan University, Taiwan (2022.08–2024.08)
+  education3: Second place in MiTalk7 flash talk competition (2023)
 
 - name: Justyna Kowalczyk
   photo: Justyna.jpg

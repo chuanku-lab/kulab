@@ -171,11 +171,21 @@
 - name: Clark Vincent Tahud
   photo: Clark.jpg
   duration: 2025.07–2025.09
-  info: TIGP research intern
+  info: IIPP research intern
   email: cmtahud[at]up.edu.ph
   number_educ: 2
   education1: B.Sc., Biology, University of the Philippines Cebu, Philippines
   education2: M.Sc., Environmental Science, University of the Philippines Cebu, Philippines
+
+- name: Michael Angelou L. Nada
+  photo: MikeNada.jpg
+  duration: 2025.06–2025.08
+  info: TIGP research intern
+  email: mikeangelounada[at]gmail.com
+  number_educ: 3
+  education1: B.Sc., Biology, Southern Luzon State University, Philippines
+  education2: M.Sc., Marine Science, University of the Philippines Diliman, Philippines
+  education3: Technical specialist, Industrial Technology Development Institute, Department of Science and Technology, Philippines
 
 - name: Laura Menke
   photo: LauraMenke.jpg

@@ -6,6 +6,9 @@ permalink: /pictures/
 ---
 
 # Photo Gallery
+#### 2026
+* [EMBO Workshop in Taipei](#2026EMBOworkshop)
+
 #### 2024
 * [Visit by Michael Borg](#2024Borg)
 
@@ -45,6 +48,20 @@ permalink: /pictures/
 
 <br/>
 
+
+### <a name="2026EMBOworkshop"></a>We co-organized the 2026 EMBO Workshop <a href='https://meetings.embo.org/event/26-bio-interactions'>Evolving Together: From Genomics to Biological Interactions</a> on campus (<a href='https://www.youtube.com/watch?v=LHHDiNah-sI'>throwback video</a>; photo credit: Jason Tsai and Audrey Wayne Abinal)
+<h5>24/Apr/2026–27/Apr/2026</h5>
+<div id="homeid" class="col-sm-5">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/260424_260427_EMBOworkshop/690615302_10102516600117215_1924388546301861770_n.jpg" width="100%">
+</figure>
+</div>
+
+<div id="newsid" class="col-sm-7">
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/260424_260427_EMBOworkshop/20260425-DSC01497AudreyWayneAbinal.jpg" width="100%">
+</figure>
+</div>
 
 ### <a name="2024Borg"></a>Michael Borg (Department of Algal Development and Evolution, Max Planck Institute for Biology, Tübingen) visits IPMB
 <h5>29/Feb/2024–07/Mar/2024</h5>

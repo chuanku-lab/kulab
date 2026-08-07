@@ -70,6 +70,14 @@
   number_educ: 1
   education1: B.Sc., Biology, University of the Philippines Diliman, Philippines; M.Sc., Microbiology, University of the Philippines Diliman, Philippines
 
+- name:  Varian Fahmi
+  photo: Varian.jpg
+  duration: 2025.05–2026.07
+  info: Research associate (2025.05–2025.08); Ph.D. researcher (TIGP-Biodiversity rotation; 2025.08–2026.07)
+  email: varianfahmi[at]as.edu.tw
+  number_educ: 2
+  education1: B.Sc., Mathematics and Natural Sciences, Brawijaya University, Indonesia; M.Sc., Mathematics and Natural Sciences, Bandung Institute of Technology, Indonesia
+
 - name: Justyna Kowalczyk
   photo: Justyna.jpg
   duration: 2023.02–2023.06
@@ -209,10 +217,26 @@
 - name: Michael Angelou L. Nada
   photo: MikeNada.jpg
   duration: 2025.06–2025.08
-  info: TIGP research intern
+  info: TIIP research intern
   email: mikeangelounada[at]gmail.com
   number_educ: 1
   education1: B.Sc., Biology, Southern Luzon State University, Philippines; M.Sc., Marine Science, University of the Philippines Diliman, Philippines; Technical specialist, Industrial Technology Development Institute, Department of Science and Technology, Philippines
+
+- name: Aaron Vince Cruzado
+  photo: AaronVinceCruzado.jpg
+  duration: 2026.06–2026.07
+  info: TIIP B.Sc. student research intern
+  email: aaronvince.cruzado.sci[at]ust.edu.ph
+  number_educ: 1
+  education1: B.Sc., Department of Biological Sciences, University of Santo Tomas, Philippines
+
+- name: Leandro Ravael
+  photo: LeandroRavael.jpg
+  duration: 2025.08–2026.06
+  info: B.Sc. student researcher
+  email: leandro.ravael[at]student.i3l.ac.id
+  number_educ: 1
+  education1: B.Sc., Biotechnology, Indonesia International Institute for Life-Sciences, Indonesia
 
 - name: Laura Menke
   photo: LauraMenke.jpg
